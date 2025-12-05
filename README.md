@@ -35,7 +35,7 @@ Using **MediaPipe**, it performs real-time pose estimation and rep counting. Pos
 
 ---
 
----
+
 
 ## **Installation**
 
