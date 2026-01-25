@@ -52,8 +52,6 @@ git clone https://github.com/yourusername/size-zero.git
 cd size-zero
 
 # Install dependencies
-pip install -r requirements.txt
-
 # IMPORTANT: Get your API key from Google AI Studio and add it to your environment variables.
 
 # Run the application
