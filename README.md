@@ -55,4 +55,4 @@ cd size-zero
 # IMPORTANT: Get your API key from Google AI Studio and add it to your environment variables.
 
 # Run the application
-streamlit run app.py
+streamlit run final.py
